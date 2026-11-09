@@ -16,3 +16,5 @@ O objetivo é praticar o versionamento de código, a organização de branches, 
 As funcionalidades são desenvolvidas em branches `feature/*` e integradas à `develop` por meio de Pull Requests.
 
 Após a integração, as alterações são promovidas para `stage` e, posteriormente, para `production`.
+
+Os PRs passam por revisão e aprovação antes de serem integrados, garantindo um fluxo de desenvolvimento controlado.
